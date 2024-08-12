@@ -1,5 +1,10 @@
 # Destroyer of Number (DON) Game
 
+## Author
+- **Sachila Dissanayake**
+- GitHub: [sachila24](https://github.com/sachila24)
+- Email: sathmika7@gmail.com
+
 ## Overview
 Destroyer of Number (DON) is a Python-based text game where the player battles against randomly generated enemies by selecting numbers. The player's goal is to survive 20 rounds by making strategic choices to defeat enemies based on their life score.
 
@@ -49,8 +54,3 @@ Player1 killed 25
 
 ## Contributing
 Feel free to fork this project, submit issues, or create pull requests to improve the game!
-
-## Author
-- **Sachila Dissanayake**
-- GitHub: [sachila24](https://github.com/sachila24)
-- Email: sathmika7@gmail.com
